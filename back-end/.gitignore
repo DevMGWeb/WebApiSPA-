@@ -1,0 +1,3 @@
+### Ignora las cadenas de conexion ###
+appsettings.Development.json
+appsettings.json
